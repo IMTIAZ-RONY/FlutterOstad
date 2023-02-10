@@ -78,7 +78,7 @@ flutter:
   fonts:
      - family: Goblin One
        fonts:
-         - asset: fonts/Goblin One-Regular.ttf
+         - asset: fonts/GoblinOne-Regular.ttf
            weight: 400
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
